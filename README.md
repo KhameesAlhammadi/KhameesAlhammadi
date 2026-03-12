@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khamees Al Hammadi
 
-🎓 **Application Development Graduate**  
+🎓 ** Fresh Application Development Graduate**  
 📍 Abu Dhabi, UAE  
 💻 Software Engineer | AI & ML Enthusiast  
 
